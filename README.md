@@ -26,7 +26,7 @@
 <!-- =========================
 4) TECH STACK
 ========================= -->
-<h2 align="center">Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,js,react,nextjs,nodejs,python,mysql,mongodb,docker,git,github,vscode&theme=light" alt="Tech Stack" />
 </p>
