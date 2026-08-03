@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -13,6 +16,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: shaminAkarsha
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             output/github-contribution-grid-snake.svg?palette=github-dark
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
