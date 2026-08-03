@@ -45,12 +45,21 @@
 <!-- =========================
 7) CONTRIBUTION SNAKE
 ========================= -->
-<h2 align="center">Contribution Snake</h2>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/snake.svg" />
-    <img src="./assets/profile/snake.svg" alt="GitHub contribution snake animation" width="100%" />
+    <source 
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/shaminAkarsha/shaminAkarsha/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source 
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/shaminAkarsha/shaminAkarsha/output/github-contribution-grid-snake.svg"
+    />
+
+    <img 
+      src="https://raw.githubusercontent.com/shaminAkarsha/shaminAkarsha/output/github-contribution-grid-snake.svg"
+      alt="GitHub contribution snake animation"
+    />
   </picture>
 </p>
-
