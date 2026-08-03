@@ -3,7 +3,7 @@
 ========================= -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Clean%20and%20Reliable%20Apps&fontAlign=50&reversal=false&textBg=false&fontSize=58"
+    src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Clean%20and%20Reliable%20Apps&fontAlign=50&reversal=false&textBg=false&fontSize=58"
     alt="Clean and Reliable Apps Banner"
     width="100%"
   />
