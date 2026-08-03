@@ -1,0 +1,37 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Profile Grid</title>
+  <desc id="desc">Minimal profile highlights in a modern blue and purple grid.</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1E293B" />
+      <stop offset="1" stop-color="#312E81" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#3B82F6" />
+      <stop offset="1" stop-color="#8B5CF6" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="420" rx="26" fill="#0F172A" />
+
+  <g>
+    <rect x="40" y="40" width="540" height="160" rx="18" fill="url(#card)" stroke="url(#accent)" stroke-width="2" />
+    <text x="70" y="90" fill="#A5B4FC" font-size="18" font-family="Segoe UI, Arial, sans-serif">Focus</text>
+    <text x="70" y="130" fill="#E2E8F0" font-size="32" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Backend + Web Apps</text>
+    <text x="70" y="165" fill="#CBD5E1" font-size="18" font-family="Segoe UI, Arial, sans-serif">Scalable architecture, clean UI, and reliable delivery</text>
+  </g>
+
+  <g>
+    <rect x="620" y="40" width="540" height="160" rx="18" fill="url(#card)" stroke="url(#accent)" stroke-width="2" />
+    <text x="650" y="90" fill="#A5B4FC" font-size="18" font-family="Segoe UI, Arial, sans-serif">Core Stack</text>
+    <text x="650" y="130" fill="#E2E8F0" font-size="30" font-weight="700" font-family="Segoe UI, Arial, sans-serif">.NET • TypeScript • React</text>
+    <text x="650" y="165" fill="#CBD5E1" font-size="18" font-family="Segoe UI, Arial, sans-serif">Building practical products with modern tooling</text>
+  </g>
+
+  <g>
+    <rect x="40" y="220" width="1120" height="160" rx="18" fill="url(#card)" stroke="url(#accent)" stroke-width="2" />
+    <text x="70" y="270" fill="#A5B4FC" font-size="18" font-family="Segoe UI, Arial, sans-serif">Now</text>
+    <text x="70" y="312" fill="#E2E8F0" font-size="30" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Open to collaboration on impactful software projects</text>
+    <text x="70" y="345" fill="#CBD5E1" font-size="18" font-family="Segoe UI, Arial, sans-serif">From APIs to polished frontends, I focus on quality and maintainability</text>
+  </g>
+</svg>

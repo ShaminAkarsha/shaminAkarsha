@@ -1,0 +1,13 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Shamin Akarsha Banner</title>
+  <desc id="desc">Blue and purple gradient banner with profile title.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB" />
+      <stop offset="1" stop-color="#7C3AED" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="28" fill="url(#bg)" />
+  <text x="600" y="120" text-anchor="middle" fill="white" font-size="48" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Shamin Akarsha</text>
+  <text x="600" y="170" text-anchor="middle" fill="#E0E7FF" font-size="24" font-family="Segoe UI, Arial, sans-serif">Crafting clean and modern software experiences</text>
+</svg>
